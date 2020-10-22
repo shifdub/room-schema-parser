@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="room-schema-parser:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/room_schema_parser_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="room-schema-parser.jar">
+        <element id="module-output" name="room-schema-parser" />
+      </element>
+      <element id="library" level="application" name="Gson" />
+    </root>
+  </artifact>
+</component>
